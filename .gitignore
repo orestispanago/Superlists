@@ -1,3 +1,5 @@
 /.idea/
 /geckodriver.log
 /superlists/db.sqlite3
+
+*.pyc
